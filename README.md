@@ -7,4 +7,4 @@ This code only works in version 1.19.51, the address changes with each version, 
 
 # Video Demonstration
 
-![](https://github.com/cheditx/Minecraft-Bedrock-Optifine-Zoom/blob/main/github.mp4)
+![](https://github.com/cheditx/Minecraft-Bedrock-Optifine-Zoom/blob/main/github.gif)
