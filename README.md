@@ -3,7 +3,7 @@ A simple python code, which modifies the data present in the ram, mainly the fov
 
 # How to use
 
-pip3 install -r requirements.txt
+pip3 install -r requirements.txt\n
 python3 main.py
 
 # Attention
